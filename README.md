@@ -33,16 +33,15 @@ Pour chacune des pages ci-dessous:
 * __Utiliser la barre d'outil de développement pour inspecter les images__ et juger de la qualité des attributs *alt*. __Prendre une capture-écran et la joindre ci-dessous.__
 *  __Les textes alternatifs sont-ils adéquats ?__ Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
  
-[capture-écran-à-ajouter]()
+![capture-écran-du-soleil](images/1-textes-alternatifs/1-2/leSoleil.png)
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran-à-ajouter]()
+    - **Observation** : Le texte alternatif est "La guerre de tarifs en chiffres". Ce texte est une répétition du titre de l'article et n'apporte pas d'information supplémentaire.
+  - **Proposition** : Utiliser un attribut `alt` vide car le texte est déjà présent à proximité sous forme de vrai texte. Exemple : `<img src="path/to/image.jpg" alt="">`
+
+![capture-écran-de-rad](images/1-textes-alternatifs/1-2/rad.png)
 - https://www.rad.ca/  
------
------
------ 
+    - **Observation** : Le texte alternatif est "Pourquoi on aime les potins?. Photo : Radio-Canada". Ce texte est adéquat mais pourrait être amélioré pour mieux décrire l'image.
+    - **Proposition** : Utiliser un attribut `alt` plus descriptif. Exemple : `<img src="path/to/image.jpg" alt="Femme tenant une pancarte avec écrit 'Est-ce que Sarah Maude Beauchesne est fine en vrai?'">`
  
  
 
