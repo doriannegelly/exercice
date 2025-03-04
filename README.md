@@ -55,24 +55,19 @@ Sinon, expliquez le problème en vous basant sur les règles de base énoncées 
 
 __Tutoriel sur les formulaires du w3c__  
 [Article](images/2-table-des-matieres_h1-h6/2-1/tuto-form-w3c.pdf)  
-[Table des matières (outline)](images/2-table-des-matieres_h1-h6/2-1/tuto-form-w3c-outline.png) 
+![Table des matières (outline)](images/2-table-des-matieres_h1-h6/2-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
 
-----
-----
-----
+La table des matières du tutoriel sur les formulaires du W3C est correcte. Les titres sont bien hiérarchisés et suivent une structure logique. Les niveaux de titres (`h1` à `h6`) sont utilisés de manière cohérente.
 
 __L’affaire Savtchenko__ 
 [Article](images/2-table-des-matieres_h1-h6/2-1/article-savtchenko.pdf)  
-[Table des matières (outline)](images/2-table-des-matieres_h1-h6/2-1/article-savtchenko-outline.png) 
+![Table des matières (outline)](images/2-table-des-matieres_h1-h6/2-1/article-savtchenko-outline.png) 
   
 Réponse : 
 
-----
-----
-----
-
+La table des matières de l'article sur l'affaire Savtchenko présente quelques problèmes. Certains titres ne respectent pas la hiérarchie logique des niveaux de titres. Par exemple, un titre de niveau `h3` est utilisé sans qu'il y ait un titre de niveau `h2` avant. Il est important de respecter la hiérarchie des titres pour assurer une bonne structure du document.
 
 #### 2.2 S'exercer à bien structurer
 
